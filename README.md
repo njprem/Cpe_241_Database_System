@@ -1,1 +1,1 @@
-# Cpe_241_Database_System
+# Lab for Database cpe_241
